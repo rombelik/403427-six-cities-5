@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Роман Белик](https://up.htmlacademy.ru/react/5/user/403427).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Атрощенко](https://htmlacademy.ru/profile/id1351257).
 
 ---
 
